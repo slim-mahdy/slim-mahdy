@@ -1,3 +1,3 @@
 # hi ✋
 # who i am 🤷‍♂️?
-<img align="center" withs="300p" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="center" width="100p" height="400px" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
